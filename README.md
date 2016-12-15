@@ -1,4 +1,4 @@
-# Made With Love In-code
+# Made With Love In
 A label for developers to add to their sites, so they can promote themselves and their country. 
 
 ## Why should I add the MWLI label to my site?
