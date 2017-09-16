@@ -6,5 +6,5 @@ All you need to know is a bit of html and how to use github.
 
 ## How do I contribute?🔨
 - First make sure that the MWLI code is not already translated in the languange you want to translate it.
-- When translating it into another language, maintain the syntax ex.This is correct "Made with ♥ in Greece" ex.This is incorrect "made in Greece with ♥"
-- Be sure that you have translated the text correctly.
+- You have the right to translate the phrase into other languages and make small changes ex."Made in Europe"
+- Make sure you have added your site to our list.
