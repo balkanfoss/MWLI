@@ -11,4 +11,4 @@ All you need to know is a bit of html and how to use github.
 
 -- Adding the label on your site
 - You have the right to use the phrase into other languages and make small changes ex."Made in Europe"
-- Make sure you have added your site to our list.
+- Make sure you have added your site to our [list](madewithlovein.org/projects.html).
