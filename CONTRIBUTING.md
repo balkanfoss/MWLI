@@ -7,6 +7,7 @@ All you need to know is a bit of html and how to use github.
 ## How do I contribute?🔨
 __Translating the MWLI phrase:__
 - First make sure that the MWLI code is not already translated in the languange you want to translate it.
+- Do not translate the label exclusively for each country.
 - You must translate the phrase without making any changes ex.**DO NOT** capitalise letters, add continets, change the link or spaces between words etc.
 
 __Adding the label on your site:__
